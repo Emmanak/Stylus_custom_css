@@ -29,7 +29,7 @@
     border: none;
   }
 
-  div#footer-links, #footer, .row + .row, .breadcrumbs, [data-section='accordion'], .section-container.accordion
+  div#footer-links, #footer, .breadcrumbs, [data-section='accordion'], .section-container.accordion
   {
     display: none;
   }
@@ -71,5 +71,6 @@
 .top-bar .title-area { background-color: #262626; }
 .top-bar, .contain-to-grid, .top-bar-section ul, .top-bar-section ul li > a, .top-bar title-area ul li > a, .top-bar-section li a:not(.button), .top-bar-section .has-form { background: #262626; }
 .button {background-color: #262626}
-
+.panel { border: 1px solid #515151; background: #262626; }
+table th { background: #6d6d6d; }
 }
