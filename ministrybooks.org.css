@@ -43,7 +43,12 @@
   {
     position: inherit;
   }
-
+h2{
+    display:none;
+}
+.banner-img{
+    display:none;
+}
   h1,h2,h3,h4,h5, .subheader, #ministry-text h2, #ministry-text H2, #ministry-text .head1, #ministry-text .HEAD1, #ministry-text .head2, #ministry-text HEAD2, #ministry-text HEAD2F, #ministry-text .title, #ministry-text .TITLE, #ministry-text .paren, #ministry-text .PAREN, #ministry-text .msg, #ministry-text .MSG, #ministry-text .subtitle, #ministry-text .SUBTITLE
   {
     color: white;
@@ -73,4 +78,5 @@
 .button {background-color: #262626}
 .panel { border: 1px solid #515151; background: #262626; }
 table th { background: #6d6d6d; }
+img# { display:none; }
 }
